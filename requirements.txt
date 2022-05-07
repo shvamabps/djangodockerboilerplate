@@ -1,2 +1,2 @@
-django
-psycopg2
+Django==4.0.4
+psycopg2==2.9.3
